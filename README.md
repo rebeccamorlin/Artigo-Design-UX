@@ -28,7 +28,7 @@ Leia o artigo completo sobre UX Design no arquivo [artigo-final.md](artigo-final
 - Imagens geradas por: I.A. lexica.art
 - Editor de imagem: Power Point
 - Conteúdo gerado por: ChatGPT
-- Revisões Humanas: [Seu Nome]
+- Revisões Humanas: Rebecca Morlin
 
 ## Call to Action
 
@@ -40,7 +40,6 @@ Gostou deste artigo? Siga-me nas redes sociais para mais dicas sobre UX Design! 
 2. [Nielsen Norman Group: Usability 101](https://www.nngroup.com/articles/usability-101-introduction-to-usability/)
 3. [W3C: Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 4. [Nielsen Norman Group: User Research](https://www.nngroup.com/articles/user-research-methods/)
-5. [Smashing Magazine: The Guide To UX Design Process & Documentation](https://www.smashingmagazine.comPara organizar seu repositório no GitHub e incluir o link do artigo postado no Medium, siga estas instruções:
-
+5. [Smashing Magazine: The Guide To UX Design Process & Documentation](https://www.smashingmagazine.com/)
 
 
